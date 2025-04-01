@@ -45,7 +45,8 @@
 
 | Name             | Score |
 |:---------------:|:------:|
-| **📚 Libft** | [![125](https://img.shields.io/badge/125-2ea44f)((https://github.com/Anadal-g/libft)) |
+| **📚 Libft** | [![125](https://img.shields.io/badge/125-2ea44f)](https://github.com/Anadal-g/libft) |
+
 | **✍🏼 Ft_printf**    | ![100](https://img.shields.io/badge/100-2ea44f) |
 | **🤖 Born2beroot**  | ![120](https://img.shields.io/badge/120-2ea44f) |
 | **⏩ Get_next_line** | ![125](https://img.shields.io/badge/112-2ea44f) |
