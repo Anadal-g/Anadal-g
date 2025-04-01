@@ -48,10 +48,10 @@
 | **📚 Libft** | [![125](https://img.shields.io/badge/125-2ea44f)](https://github.com/Anadal-g/libft) |
 | **✍🏼 Ft_printf**    | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/Anadal-g/printf) |
 | **🤖 Born2beroot**  | ![120](https://img.shields.io/badge/120-2ea44f) |
-| **⏩ Get_next_line** | [![125](https://img.shields.io/badge/112-2ea44f)](https://github.com/Anadal-g/get_next_line) |
-| **↹ Push_swap**     | [![100](https://img.shields.io/badge/84-2ea44f)](https://github.com/Anadal-g/push_swap) |
+| **⏩ Get_next_line** | [![125](https://img.shields.io/badge/125-2ea44f)](https://github.com/Anadal-g/get_next_line) |
+| **↹ Push_swap**     | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/Anadal-g/push_swap) |
 | **🧬 Pipex**        | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/Anadal-g/pipex) |
-| **🕹️ Fract-ol**     | [![125](https://img.shields.io/badge/120-2ea44f)](https://github.com/Anadal-g/fractol) |
+| **🕹️ Fract-ol**     | [![125](https://img.shields.io/badge/125-2ea44f)](https://github.com/Anadal-g/fractol) |
 | **🐚 Minishell**    | [![---](https://img.shields.io/badge/----grey)](https://github.com/MiMendiola/minishell) |
 
 ### Featured Projects
