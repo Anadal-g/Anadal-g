@@ -24,12 +24,13 @@
 ### 📌 Connect with me
 <div align="center">
 	<a href="https://www.linkedin.com/in/alejandro-nadal-garcia-b946b820a/">
-	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+		<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="180"/>
 	</a>
 	<a href="mailto:alexnadal999@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/>
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="180"/>
 	</a>
 </div>
+
 
 ---
 
