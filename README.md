@@ -61,7 +61,7 @@
 ---
 
 ### 🏆 42 Stats
-<a href="https://github.com/oakoudad/badge42"><img src="[https://badge.mediaplus.ma/darkgray/camarcos?1337Badge=off&UM6P=off](https://www.linkedin.com/in/alejandro-nadal-garcia-b946b820a/)" alt="camarcos's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/anadal-g?1337Badge=off&UM6P=off" alt="anadal-g's 42 stats" /></a>
 </div>
 
 ---
